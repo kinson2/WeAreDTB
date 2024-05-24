@@ -58,7 +58,7 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
-paginate: 4
+paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
