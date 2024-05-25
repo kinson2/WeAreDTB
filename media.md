@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Media - Photos, Videos, Visual Art for DTB
 description: Displays of visual media and content for the collective.
 sitemap:
