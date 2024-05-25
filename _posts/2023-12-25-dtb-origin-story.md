@@ -2,7 +2,7 @@
 layout: post
 title:  "Origin Story"
 date:   2023-12-25
-excerpt: "Once upon a time were the darkest of days"
+excerpt: "Once upon a time were the darkest of days."
 image: "/images/dtb-logo-circle-black-white.png"
 ---
 
