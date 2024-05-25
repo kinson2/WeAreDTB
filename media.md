@@ -9,6 +9,7 @@ sitemap:
 ---
 
 ## Photos
+
 <html>
 <style>
 * {
@@ -54,6 +55,7 @@ sitemap:
 </html>
 
 ## Videos
+
 <html><!--
     <div style="width:100%;height:480px;background-color:black;text-align:center;"> 
    <video style="height:100%;" controls> 
