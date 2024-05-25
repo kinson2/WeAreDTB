@@ -42,6 +42,7 @@ sitemap:
   <img src="{{ "/images/IMG_3916.jpeg" | absolute_url }}" style="width:100%">
   <img src="{{ "/images/IMG_3911.jpeg" | absolute_url }}" style="width:100%">
   <img src="{{ "/images/IMG_3909.jpeg" | absolute_url }}" style="width:100%">
+  <img src="{{ "/images/IMG_9220.jpeg" | absolute_url }}" style="width:100%">
   </div>
   <div class="column">
   <img src="{{ "/images/IMG_9231.jpeg" | absolute_url }}" style="width:100%">
