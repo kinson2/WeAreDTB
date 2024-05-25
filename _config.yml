@@ -1,13 +1,13 @@
 # Site
 title:              Darker Than Blue
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'A collective in Champaign-Urbana bringing a unique set of talents combining music, movement, art, and culture for the greater good.'
+description:        "A collective in Champaign-Urbana bringing a unique set of talents combining music, movement, art, and culture for the greater good."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Comments
-disqus_shortname:   default
+#disqus_shortname:   default
 
 # Social
 #analytics-id:       "default"
@@ -22,9 +22,9 @@ phone:
 email:              darkerthanblue.collective@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/bg.jpg
+background_image:   /images/dtb-group-photo01-black-mosaic-effect-dtb-typogram.png
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-slapform_thankyou_page: /thank-you
+#slapform_thankyou_page: /thank-you
 
 defaults:
 - scope:
