@@ -14,17 +14,12 @@ sitemap:
 * {
   box-sizing: border-box;
 }
-/*body {
-  margin: 0;
-  font-family: Arial;
-}*/
 
 .header {
   text-align: center;
   padding: 32px;
 }
 
-/* Create two equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
@@ -35,7 +30,6 @@ sitemap:
   margin-top: 12px;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
