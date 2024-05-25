@@ -22,7 +22,7 @@ phone:
 email:              darkerthanblue.collective@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/dtb-group-color-shapes-black-dtb-typogram.png
+background_image:   /images/background-dtb-logo-circle-center.png
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 #slapform_thankyou_page: /thank-you
 
