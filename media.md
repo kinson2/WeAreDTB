@@ -54,6 +54,11 @@ sitemap:
 </html>
 
 ## Videos
+<div style="width:100%;height:480px;background-color:black;text-align:center;"> 
+   <video style="height:100%;" controls> 
+      <source src="https://photos.app.goo.gl/dmUFzecw6B5U84PE6" type="video/mp4"> 
+   </video> 
+</div>
 
 ## Mixes
 
