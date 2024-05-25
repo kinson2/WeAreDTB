@@ -31,13 +31,14 @@
 	$palette: (
 		wrapper-bg:			#212931,
 
-		bg:					#ffffff,
-		fg:					#212931,
-		fg-bold:			#212931,
+		bg:					#ffffff, //white
+		txt: #a4acb4, //grey
+		fg:					#212931, //black
+		fg-bold:			#212931, 
 		fg-light:			mix(#212931, #ffffff, 50%),
-		border:				mix(#dcdcdc, #ffffff, 50%),
+		border:				mix(#dcdcdc, #ffffff, 50%), //light gray, white
 		border-bg:			rgba(#dcdcdc, 0.25),
-		accent:				#18bfef,
+		accent:				#18bfef, //teal around scrolly circle and text highlight color
 
 		alt: (
 			bg:				#f5f5f5,
