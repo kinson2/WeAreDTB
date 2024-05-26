@@ -13,7 +13,7 @@ sitemap:
 
 ### About Joe "E-squared" Blanks
 
-<div style="width: 200px; height: 200px">
+<div style="width: 200px; height: 200px; overflow: hidden;">
     <img src="{{ "/images/IMG_3529.jpg" | absolute_url }}" alt="" /></span>
 </div>
 
