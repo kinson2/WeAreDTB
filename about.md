@@ -13,7 +13,9 @@ sitemap:
 
 ### About Joe "E-squared" Blanks
 
-<span class="image left"><img src="{{ "/images/IMG_3529.jpg" | absolute_url }}" alt="" /></span>
+<div style="width: 200px; height: 200px">
+    <img src="{{ "/images/IMG_3529.jpg" | absolute_url }}" alt="" /></span>
+</div>
 
 Bio coming soon.
 
