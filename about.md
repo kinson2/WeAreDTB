@@ -13,31 +13,31 @@ sitemap:
 
 ### About Joe "E-squared" Blanks
 
-<img src="{{ "/images/IMG_3529.jpg" | absolute_url }}" alt="" />
+<img src="{{ "/images/profile_Joe.jpg" | absolute_url }}" alt="" />
 
 Bio coming soon.
 
 ### About Kamau "KamauMau" Grantham
 
-<img src="{{ "/images/IMG_9220.jpeg" | absolute_url }}" alt="" />
+<img src="{{ "/images/profile_Kamau.jpg" | absolute_url }}" alt="" />
 
 Bio coming soon.
 
 ### About Chris "CK" Kinson
 
-<img src="{{ "/images/IMG_3911.jpeg" | absolute_url }}" alt="" />
+<img src="{{ "/images/profile_Chris.jpg" | absolute_url }}" alt="" />
 
 I think of myself as a builder when I'm djing. I spin music of the African Diaspora that spans the globe fastening the aesthetically unsafe to the safe. My musical inclinations are immediately recognized as Black music from the past, contemporary pop, and futuristic sonics. I loves crafting unique blends and mixes for everyone to enjoy - dancers, drinkers, and listeners.
 
 ### About Stacey "BLACKSTAR" Robinson
 
-<img src="{{ "/images/IMG_3916.jpeg" | absolute_url }}" alt="" />
+<img src="{{ "/images/profile_Stacey.jpg" | absolute_url }}" alt="" />
 
 As with many aspiring DJs, I began by spinin’ beats and blending songs in my head. Actually for the past 30+ years. I’m finally manifesting that long deferred dream combining DJing with motion based graphics and time lapse videos. Among my sonic obsessions is collecting vinyl records. I spin Golden Age Hip-Hop, mixing them with their original samples to imagine what the AfroFuture sounds like through a multimedia Sankofa practice. I look forward to sharing more DJ mixes and animations with you.
 
 ### About Warren "Mixzn" Smith
 
-<img src="{{ "/images/IMG_9229.jpeg" | absolute_url }}" alt="" />
+<img src="{{ "/images/profile_Warren.jpg" | absolute_url }}" alt="" />
 
 Bio coming soon.
 
