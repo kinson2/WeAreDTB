@@ -1,27 +1,29 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: About Darker Than Blue (DTB)
+description: Some background information about the collective and its members.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+    lastmod: 2024-05-26
+    changefreq: monthly
 ---
-## About our Site
+## About the Collective
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+**Darker Than Blue** is an emerging DJ collective based in Champaign-Urbana, Illinois consisting of: Joe "E-squared" Blanks, Kamau "KamauMau" Grantham, Chris "CK" Kinson, and Stacey "BLACKSTAR" Robinson. Our Collective formed in October 2023 and originally included Manuella "Soleil Roz" Lusambo who moved from the area in December 2023. We welcomed our latest addition, Warren "Mixzn" Smith, in April 2024. Our crew spins a wide range of music to create peaceful dance environments for all to enjoy. Come chill, build, and be prepared to dance. All of our events are FREE and open to the public.
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+### About Joe "E-squared" Blanks
+<span class="image left"><img src="{{ "/images/IMG_3529.jpg" | absolute_url }}" alt="" /></span>
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+### About Kamau "KamauMau" Grantham
+<span class="image right"><img src="{{ "/images/IMG_9220.jpeg" | absolute_url }}" alt="" /></span>
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+### About Chris "CK" Kinson
+<span class="image left"><img src="{{ "/images/IMG_3911.jpeg" | absolute_url }}" alt="" /></span>
+I think of myself as a builder when I'm djing. I spin music of the African Diaspora that spans the globe fastening the aesthetically unsafe to the safe. My musical inclinations are immediately recognized as Black music from the past, contemporary pop, and futuristic sonics. I loves crafting unique blends and mixes for everyone to enjoy - dancers, drinkers, and listeners.
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+### About Stacey "BLACKSTAR" Robinson
+<span class="image right"><img src="{{ "/images/IMG_3916.jpeg" | absolute_url }}" alt="" /></span>
+As with many aspiring DJs, I began by spinin’ beats and blending songs in my head. Actually for the past 30+ years. I’m finally manifesting that long deferred dream combining DJing with motion based graphics and time lapse videos. Among my sonic obsessions is collecting vinyl records. I spin Golden Age Hip-Hop, mixing them with their original samples to imagine what the AfroFuture sounds like through a multimedia Sankofa practice. I look forward to sharing more DJ mixes and animations with you.
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+### About Warren "Mixzn" Smith
+<span class="image left"><img src="{{ "/images/IMG_9229.jpeg" | absolute_url }}" alt="" /></span>
