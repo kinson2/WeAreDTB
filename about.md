@@ -13,9 +13,11 @@ sitemap:
 
 ### About Joe "E-squared" Blanks
 <span class="image left"><img src="{{ "/images/IMG_3529.jpg" | absolute_url }}" alt="" /></span>
+Bio coming soon.
 
 ### About Kamau "KamauMau" Grantham
 <span class="image right"><img src="{{ "/images/IMG_9220.jpeg" | absolute_url }}" alt="" /></span>
+Bio coming soon.
 
 ### About Chris "CK" Kinson
 <span class="image left"><img src="{{ "/images/IMG_3911.jpeg" | absolute_url }}" alt="" /></span>
@@ -27,3 +29,4 @@ As with many aspiring DJs, I began by spinin’ beats and blending songs in my h
 
 ### About Warren "Mixzn" Smith
 <span class="image left"><img src="{{ "/images/IMG_9229.jpeg" | absolute_url }}" alt="" /></span>
+Bio coming soon.
