@@ -39,5 +39,4 @@ As with many aspiring DJs, I began by spinin’ beats and blending songs in my h
 
 <img src="{{ "/images/profile_Warren.jpg" | absolute_url }}" alt="" />
 
-Bio coming soon.
-
+Growing up with a former DJ as a father, I've been exposed to a diverse collection of music genres since childhood. This allows me to curate a blend of timeless classics and current hits. My mission is to have multiple generations on the dance floor by seamlessly mixing different eras of music to create a vibe and an unforgettable dance experience.
