@@ -27,7 +27,7 @@ Bio coming soon.
 
 <img src="{{ "/images/profile_Chris.jpg" | absolute_url }}" alt="" />
 
-I think of myself as a builder when I'm djing. I spin music of the African Diaspora that spans the globe fastening the aesthetically unsafe to the safe. My musical inclinations are immediately recognized as Black music from the past, contemporary pop, and futuristic sonics. I loves crafting unique blends and mixes for everyone to enjoy - dancers, drinkers, and listeners.
+I think of myself as a builder when I'm djing. I spin music of the African Diaspora that spans the globe fastening the aesthetically unsafe to the safe. My musical inclinations are immediately recognized as Black music from the past, contemporary pop, and futuristic sonics. I love crafting unique blends and mixes for everyone - dancers, drinkers, and listeners - to enjoy.
 
 ### About Stacey "BLACKSTAR" Robinson
 
