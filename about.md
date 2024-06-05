@@ -21,7 +21,7 @@ Bio coming soon.
 
 <img src="{{ "/images/profile_Kamau.jpg" | absolute_url }}" alt="" />
 
-Bio coming soon.
+I first learned how to DJ in 1988, while in college in upstate NY. I play music that I find funky in hopes that others may also be moved in the same way. For me good music knows no boundaries and has no expiration date, so in my DJ sets you might hear disco, jazz funk, house, Afro house, and world beats, just to name a few. Folks may or may not be familiar with some of the music that I play, but I hope they approach my DJ sets with an open mind.
 
 ### About Chris "CK" Kinson
 
