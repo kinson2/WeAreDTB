@@ -6,7 +6,7 @@ excerpt: "A new way to keep up with us."
 image: "/images/newsletter-june2024.png"
 ---
 
-Each month, we’ll feature a member of the collective who will spin for most of the night. We’re featuring Sacey BLACKSTAR Robinson on Saturday June 22, our first DTB party of the summer, at Gallery Art Bar at 8:00pm – 1:00am. Join us for a great time and support the bar with drinks, snacks, and tips.
+Each month, we’ll feature a member of the collective who will spin for most of the night. We’re featuring Stacey BLACKSTAR Robinson on Saturday June 22, our first DTB party of the summer, at Gallery Art Bar at 8:00pm – 1:00am. A couple of us in the collective will open up for BLACKSTAR, but he's the headliner. Join us for a great time and support the bar with drinks, snacks, and tips.
 
 If you want to become a subscriber, go to [subscribe](https://wearedtb.com/subscribe/) and enter your email address in the box. We'll contact you once per month with our upcoming events and appearances. 
 
