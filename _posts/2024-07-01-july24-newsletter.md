@@ -2,7 +2,7 @@
 layout: post
 title:  "July 2024 Newsletter"
 date:   2024-07-01
-excerpt: "A new way to keep up with us."
+excerpt: "Make the dance floor your destination!"
 image: "/images/newsletter-july2024.png"
 ---
 
