@@ -95,7 +95,7 @@ sitemap:
 <iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?light=1&feed=%2Fchriskinson_djck%2Fgolden-era-hip-hop-ck-and-blackstar-live-mix%2F" frameborder="0" ></iframe>
 
 ## Videos
-
+Coming soon.
 <html><!--
     <div style="width:100%;height:480px;background-color:black;text-align:center;"> 
    <video style="height:100%;" controls> 
