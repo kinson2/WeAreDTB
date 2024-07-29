@@ -90,6 +90,10 @@ sitemap:
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1864291293&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
+<iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?light=1&feed=%2Fchriskinson_djck%2Fdarker-than-blue-july-20-2024-ck-and-blackstar-live-mix%2F" frameborder="0" ></iframe>
+
+<iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?light=1&feed=%2Fchriskinson_djck%2Fgolden-era-hip-hop-ck-and-blackstar-live-mix%2F" frameborder="0" ></iframe>
+
 ## Videos
 
 <html><!--
