@@ -52,6 +52,9 @@ sitemap:
   <img src="{{ "/images/IMG_6513.jpg" | absolute_url }}" style="width:100%">
   <img src="{{ "/images/IMG_6518.jpg" | absolute_url }}" style="width:100%">
   <img src="{{ "/images/IMG_9313.jpg" | absolute_url }}" style="width:100%">
+  <img src="{{ "/images/imagejpeg_0.jpg" | absolute_url }}" style="width:100%">
+  <img src="{{ "/images/imagejpeg_2.jpg" | absolute_url }}" style="width:100%">
+  <img src="{{ "/images/imagejpeg_4.jpg" | absolute_url }}" style="width:100%">
   </div>
   <div class="column">
   <img src="{{ "/images/IMG_9231.jpeg" | absolute_url }}" style="width:100%">
@@ -66,6 +69,8 @@ sitemap:
   <img src="{{ "/images/IMG_6519.jpg" | absolute_url }}" style="width:100%">
   <img src="{{ "/images/IMG_9314.jpg" | absolute_url }}" style="width:100%">
   <img src="{{ "/images/IMG_9315.jpg" | absolute_url }}" style="width:100%">
+  <img src="{{ "/images/imagejpeg_1.jpg" | absolute_url }}" style="width:100%">
+  <img src="{{ "/images/imagejpeg_3.jpg" | absolute_url }}" style="width:100%">
   </div>  
 </div>
 </body>
