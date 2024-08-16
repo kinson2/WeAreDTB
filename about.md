@@ -4,18 +4,18 @@ title: About Darker Than Blue (DTB)
 description: Some background information about the collective and its members.
 sitemap:
     priority: 0.7
-    lastmod: 2024-05-26
+    lastmod: 2024-08-16
     changefreq: monthly
 ---
 ## About the Collective
 
-**Darker Than Blue** is an emerging DJ collective based in Champaign-Urbana, Illinois consisting of: Joe "E-squared" Blanks, Kamau "KamauMau" Grantham, Chris "CK" Kinson, and Stacey "BLACKSTAR" Robinson. Our Collective formed in October 2023 and originally included Manuella "Soleil Roz" Lusambo who moved from the area in December 2023. We welcomed our latest addition, Warren "Mixzn" Smith, in April 2024. Our crew spins a wide range of music to create peaceful dance environments for all to enjoy. Come chill, build, and be prepared to dance. All of our events are FREE and open to the public.
+**Darker Than Blue** is an emerging DJ collective based in Champaign-Urbana, Illinois consisting of: Joe "E^squared" Blanks, Kamau "KamauMau" Grantham, Chris "CK" Kinson, and Stacey "BLACKSTAR" Robinson. Our Collective formed in October 2023 and originally included Manuella "Soleil Roz" Lusambo who moved from the area in December 2023. We welcomed our latest addition, Warren "Mixzn" Smith, in April 2024. Our crew spins a wide range of music to create peaceful dance environments for all to enjoy. Come chill, build, and be prepared to dance. All of our events are FREE and open to the public.
 
-### About Joe "E-squared" Blanks
+### About Joe "E^squared" Blanks
 
 <img src="{{ "/images/profile_Joe.jpg" | absolute_url }}" alt="" />
 
-Bio coming soon.
+I'm Cali bred, Cali fed via the Bay and hometown Fresno. I started producing house, electronic, rap, and R&B with FL Studio in 2003 in San Diego, CA. Arrived to NY in 2008 where I began to spin music in 2011 and have been spinning ever since for various events, celebrations, weddings, clubs, venues, and more. E^squared, aka Evolving Exponentially, comes from the idea that being present in the moment and seeking experiences promotes growth. This is reflected through my dj sets and mixes where the tempo, genre, and energy evolves as I showcase my rhythm and beat transitions between songs. Mainly spinning deep, funky, and soulful house, my collection of mixes on several social media platforms spans genres and energies. I continue to provide a library of mixes tapping into the energies and setting vibes for audiences around the world. Add me to your Equation.
 
 ### About Kamau "KamauMau" Grantham
 
