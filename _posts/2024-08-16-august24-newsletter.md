@@ -10,6 +10,8 @@ Each month, we’ll feature a member of the collective who will spin for most of
 
 On Saturday August 31 6:00pm-10:00pm at Gallery Art Bar’s outdoor space, DTB is spinning party vibes for Labor Day weekend. Hangout with us Saturday and have something to talk about on your three-day weekend.
 
+![August 2024 Newsletter](https://raw.githubusercontent.com/kinson2/WeAreDTB/main/images/newsletter-august2024.png)
+
 If you want to become a subscriber, go to [subscribe](https://wearedtb.com/subscribe/) and enter your email address in the box. We'll contact you once per month with our upcoming events and appearances. 
 
 If a newsletter is too much information, you can see where we'll be and what's going down in our [calendar](https://wearedtb.com/calendar/). Feel free to add all of our festivities to your personal calendar.
