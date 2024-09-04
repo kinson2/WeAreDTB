@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Digging In Exile"
-date:   2024-09-07
+date:   2024-09-03
 excerpt: "Wanting vinyl records at a discount? Come to Exile on Main St in Champaign."
 image: "/images/DIGGING-IN-EXILE-FLYER-FINAL2.png"
 ---
