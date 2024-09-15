@@ -94,6 +94,10 @@ sitemap:
 
 <iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?light=1&feed=%2Fchriskinson_djck%2Fgolden-era-hip-hop-ck-and-blackstar-live-mix%2F" frameborder="0" ></iframe>
 
+<iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?light=1&feed=%2FE_Squared_%2F2024q1-24-afrobeat-amapiano-dj-mix%2F" frameborder="0" ></iframe>
+
+<iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?light=1&feed=%2FE_Squared_%2F2004q2-24-chicago-house-music-festival-inspired-mix-mp3%2F" frameborder="0" ></iframe>
+
 <iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?feed=%2FStaceyARobinson%2Fdarker-than-blue-8232024%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1903302406&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
