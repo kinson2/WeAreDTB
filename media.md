@@ -115,6 +115,8 @@ Menu: [Photos](#photos) | [Mixes](#mixes) | [Videos](#videos)
 
 <iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?feed=%2Fchriskinson_djck%2Ffela-fest-2024-dj-ck%2F" frameborder="0" ></iframe>
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1933812788&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 ## Videos
 Coming soon.
 <html><!--
