@@ -113,7 +113,7 @@ Menu: [Photos](#photos) | [Mixes](#mixes) | [Videos](#videos)
 
 <iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?feed=%2Fmixzn%2Fdtb-928-mxzn%2F" frameborder="0" ></iframe>
 
-
+<iframe width="100%" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?feed=%2Fchriskinson_djck%2Ffela-fest-2024-dj-ck%2F" frameborder="0" ></iframe>
 
 ## Videos
 Coming soon.
