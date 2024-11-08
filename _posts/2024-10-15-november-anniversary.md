@@ -3,7 +3,7 @@ layout: post
 title:  "Givin' Up Food for Funk"
 date:   2024-10-15
 excerpt: "Bring a canned food item to donate."
-image: "/images/gufff01.png"
+image: "/images/GUFFF.png"
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
