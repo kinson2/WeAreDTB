@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Feel Good Friday"
-date:   2025-04-18
+date:   2025-02-26
 excerpt: "All People. All Faiths. All Dancers Welcome."
 image: "/images/good-friday2025_2.png"
 ---
