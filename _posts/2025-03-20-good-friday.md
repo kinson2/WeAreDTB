@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Feel Good Friday"
-date:   2025-02-26
+date:   2025-03-20
 excerpt: "All People. All Faiths. All Dancers Welcome."
-image: "/images/good-friday2025_3.png"
+image: "/images/good-friday2025_4.png"
 ---
 
 We're trying something new this year. We wanted to explore subgenres of house music that get a lot of love on the dance floor elsewhere in decades past. We want to have a dance party where we spin all gospel house, spiritual house, and soulful house music.
