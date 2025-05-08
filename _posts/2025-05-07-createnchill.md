@@ -3,7 +3,7 @@ layout: post
 title:  "Create+Chill Series"
 date:   2025-05-07
 excerpt: "Join us and work on your craft."
-image: "/images/create+chill-series.png"
+image: "/images/create-chill-series.png"
 ---
 
 We're bringing back Create + Chill as a seasonal event series at the Urbana-Champaign Independent Media Center located at 202 S. Broadway Ave, Urbana, IL 61801.
