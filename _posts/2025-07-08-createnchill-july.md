@@ -3,7 +3,7 @@ layout: post
 title:  "Create+Chill July 2025"
 date:   2025-07-08
 excerpt: "Join us and work on your craft."
-image: "/images/create+chill2025-series.png"
+image: "/images/create+chill2025-jul12.png"
 ---
 
 Our next Create + Chill event is Saturday, July 11, 2025 2:00-5:00 pm at the Urbana-Champaign Independent Media Center located at 202 S. Broadway Ave, Urbana, IL 61801.
